@@ -46,7 +46,7 @@
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "ضع اسم الجلسه الخاصه بك ان لم تعرفها يوجد هنا شرحها https://t.me/L3LL3",
+      "description": "ضع نفس ماكتبت في ال App name اول صفحه",
       "value": "",
       "required": false
       },
