@@ -1,5 +1,5 @@
 {
-  "name": "تليثون العرب",
+  "name": "November",
   "description": "اهلا بك في تنصيب تليثون العرب لمتابعه قناتنا : https://t.me/M4_STORY ",
   "logo": "https://telegra.ph/file/25917eb62d664deffa22b.jpg",
   "keywords": [
@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/telethontesthelp/telethon-Ar-pack/",
+  "repository": "https://github.com/Odysho/Telethon-Arab-helper/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -17,23 +17,23 @@
     },
     "APP_ID": {
       "description": "اكتب هنا الايبي ايدي",
-      "value": ""
+      "value": "6223384"
     },
     "API_HASH": {
       "description": "اكتب هنا ألايبي هاش",
-      "value": ""
+      "value": "8b2a99ed20dec0ca4587201a57598ca6"
     },
     "STRING_SESSION": {
       "description": "ضع هنا كود تيرمكس",
-      "value": ""
+      "value": "1ApWapzMBu65OJm4h9XtDTinELxVVJvzbAXMiyK87NdgvDYnTmTA08NdkiMhcRN-TgXpl3TlNr8Rh5crJNv2U1lZsSthdtIFNG4M4IGyyf_bav5OyQKU59NyM1RQrzj9S3t2L3gI9kiB9btV_qTGWmUg6hz87qkEMmYXqq5ZW6uycPwcA6UQcb_zZTIZ8RF4_i8R0YbzbBDKPm8LY4J0XbD24YxjU22_wV16tIkUSae3Nb45jDm9VwNlnFoRzMVgcBGCuIu8oNH3bvNcD2fH8EQ-UzYNREeFLJwLO1jPAuG5AQxajvd4u6BQY2S1IQpx1Vw11wyuHsjd-aO8SXPu2ziyCJUplNpY="
     },
     "TG_BOT_USERNAME": {
       "description": "ضع هنا معرف البوت بدون @",
-      "value": ""
+      "value": "thwegfbot"
     },
     "TG_BOT_TOKEN": {
       "description": "ضع هنا توكن البوت الخاص بك",
-      "value": ""
+      "value": "1880329999:AAEhDApYaRMfHh3kmhOOTMH5u-gg9ZI310o"
     },
     "ENV": {
       "description": "اتركه كما هوه",
