@@ -42,7 +42,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "ضع كود هيروكوان لم تعرفها يوجد هنا شرحها https://t.me/L3LL3",
-      "value": "",
+      "value": "6a70410a-97f4-4d44-8392-3c86b0708c03",
       "required": false
     },
     "HEROKU_APP_NAME": {
