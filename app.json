@@ -57,7 +57,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رابط السورس - لاتوصله",
-      "value": "Telethon-Ar",
+      "value": "ODY",
       "required": false
     }
   },
