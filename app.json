@@ -17,15 +17,15 @@
     },
     "APP_ID": {
       "description": "اكتب هنا الايبي ايدي",
-      "value": "6223384"
+      "value": ""
     },
     "API_HASH": {
       "description": "اكتب هنا ألايبي هاش",
-      "value": "8b2a99ed20dec0ca4587201a57598ca6"
+      "value": ""
     },
     "STRING_SESSION": {
       "description": "ضع هنا كود تيرمكس",
-      "value": "1ApWapzMBu65OJm4h9XtDTinELxVVJvzbAXMiyK87NdgvDYnTmTA08NdkiMhcRN-TgXpl3TlNr8Rh5crJNv2U1lZsSthdtIFNG4M4IGyyf_bav5OyQKU59NyM1RQrzj9S3t2L3gI9kiB9btV_qTGWmUg6hz87qkEMmYXqq5ZW6uycPwcA6UQcb_zZTIZ8RF4_i8R0YbzbBDKPm8LY4J0XbD24YxjU22_wV16tIkUSae3Nb45jDm9VwNlnFoRzMVgcBGCuIu8oNH3bvNcD2fH8EQ-UzYNREeFLJwLO1jPAuG5AQxajvd4u6BQY2S1IQpx1Vw11wyuHsjd-aO8SXPu2ziyCJUplNpY="
+      "value": ""
     },
     "TG_BOT_USERNAME": {
       "description": "ضع هنا معرف البوت بدون @",
@@ -33,7 +33,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "ضع هنا توكن البوت الخاص بك",
-      "value": "1880329999:AAEhDApYaRMfHh3kmhOOTMH5u-gg9ZI310o"
+      "value": ""
     },
     "ENV": {
       "description": "اتركه كما هوه",
@@ -42,7 +42,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "ضع كود هيروكوان لم تعرفها يوجد هنا شرحها https://t.me/L3LL3",
-      "value": "6a70410a-97f4-4d44-8392-3c86b0708c03",
+      "value": ""
       "required": false
     },
     "HEROKU_APP_NAME": {
